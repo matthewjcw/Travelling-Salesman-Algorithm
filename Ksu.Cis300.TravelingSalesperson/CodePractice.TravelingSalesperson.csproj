@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ksu.Cis300.PriorityQueueLibrary\Ksu.Cis300.PriorityQueueLibrary.csproj" />
+    <ProjectReference Include="..\Ksu.Cis300.PriorityQueueLibrary\CodePractice.PriorityQueueLibrary.csproj" />
   </ItemGroup>
 
 </Project>

@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ksu.Cis300.TravelingSalesperson\Ksu.Cis300.TravelingSalesperson.csproj" />
+    <ProjectReference Include="..\Ksu.Cis300.TravelingSalesperson\CodePractice.TravelingSalesperson.csproj" />
   </ItemGroup>
 
 </Project>
