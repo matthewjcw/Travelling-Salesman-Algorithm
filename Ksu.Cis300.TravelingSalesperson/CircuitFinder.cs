@@ -1,6 +1,6 @@
 ﻿/* CircuitFinder.cs
- * Author: Rod Howell
- * Modified by Matthew Wilson
+ * Author: Matthew Wilson
+ * 
  */
 using Ksu.Cis300.PriorityQueueLibrary;
 using System;
